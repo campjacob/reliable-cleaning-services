@@ -1,0 +1,25 @@
+<!-- Services Section -->
+<section id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Services</h2>
+                <h3 class="section-subheading text-muted">I ❤️ cleaning, so you don’t have to feel bad about having me come and help clean for you…</h3>
+                <p>While most people don’t enjoy cleaning, I do. Whether you need help getting your home in order or daily cleaning of your workplace, I do it all. Along with both residential and comercial cleaning projects, I can work at whatever schedule you need whether its one-time, weekly, bi-weekly, or monthly. I can also do regular routine cleaning or if you want me to get in there deep, I’m sure you will be satisfied.</p>
+            </div>
+        </div>
+        <div class="row text-center">
+          {% for service in site.data.services %}
+            <div class="col-md-4">
+                <span class="fa-stack fa-4x">
+                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                    <i class="fa fa-{{ service.icon }} fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="service-heading">{{ service.name }}</h4>
+                <p class="text-muted">{{ service.description }}</p>
+            </div>
+          {% endfor %}
+
+        </div>
+    </div>
+</section>

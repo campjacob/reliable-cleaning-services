@@ -1,0 +1,11 @@
+- name: "Free Estimates"
+  icon: "file-invoice-dollar"
+  description: "Reasonable prices and hard work"
+
+- name: "Residential Cleaning"
+  icon: "home"
+  description: "One time, weekly, bi-weekly "
+
+- name: "Commercial Cleaning"
+  icon: "building"
+  description: "Commercial contracts and cleaning done right"

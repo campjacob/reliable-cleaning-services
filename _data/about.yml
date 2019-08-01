@@ -1,0 +1,27 @@
+- name: "Residential Cleaning"
+  image: "broom-against-wall.jpeg"
+  img-alt: "Photo of broom against wall"
+  tagline: "Clean your House"
+  text: "I do residential cleaning at any scale and frequency you need at reasonable prices and I’m always reliable so you know the job will be done right. I can do routine cleaning to help you get to the things you want to do in your life and not have to worry. If you are getting ready for an event or just in need of some deep spring cleaning I have you covered there as well."
+  side: left
+
+- name: "Deep Home Cleaning"
+  image: "close-up-spray-bottle.jpeg"
+  img-alt: "Photo of close up of spray bottle"
+  tagline: "For Big Projects"
+  text: "Sometimes you really need to get things below the surface and deep down. When you need some real attention and care, ask me about my deep cleaning services. Prices could be similar to: <br/><br />Kitchen - $40<br />Bathroom - $40<br />Bedroom - $20<br />Living Room - $20"
+  side: right
+
+- name: "Routine Home Cleaning"
+  image: "close-up-cleaning-supply.jpeg"
+  img-alt: "Close up photo of cleaning cloth and H2O Kitchen cleaner"
+  tagline: "Keeping It Up Over Time"
+  text: "Keeping up on your home cleaning keeps everything in order and helps to bring some sanity back to your home. Routine cleaning (even if it’s just one time, because that’s ok as well) means that I will dust and clean all of the surfaces, but we aren’t going after some really stuck in messes. Prices could be similar to: <br /><br />Kitchen - $20<br />Bathroom - $20<br />Bedroom - $10<br />Living Room - $10"
+  side: left
+
+- name: "Commercial Cleaning"
+  image: "back-pack-vacuum-close-up.jpeg"
+  img-alt: "Close up of backpack vacuum"
+  tagline: "Clean your Business"
+  text: "If your business requires ongoing cleaning, I can get the work done for you. Whether you have a construction site, office, or even a medical facility with some special precautions you need I do them all. Schedule with me and I will give you a quote."
+  side: right
